@@ -129,9 +129,7 @@ img{max-width:100%;display:block}
 
 /* ── MOBILE TOPBAR ─────────────────────────────────────────────── */
 .mobile-topbar{
-  display:none;align-items:center;justify-content:space-between;
-  padding:calc(10px + var(--safe-top)) 14px 10px;
-  background:var(--sidebar);flex-shrink:0;
+  display:none;
 }
 .mobile-logo{color:#fff;font-weight:800;font-size:16px;display:none;align-items:center;gap:8px}
 .mobile-cart-btn{
