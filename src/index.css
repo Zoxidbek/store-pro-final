@@ -133,7 +133,7 @@ img{max-width:100%;display:block}
   padding:calc(10px + var(--safe-top)) 14px 10px;
   background:var(--sidebar);flex-shrink:0;
 }
-.mobile-logo{color:#fff;font-weight:800;font-size:16px;display:flex;align-items:center;gap:8px}
+.mobile-logo{color:#fff;font-weight:800;font-size:16px;display:none;align-items:center;gap:8px}
 .mobile-cart-btn{
   background:rgba(255,255,255,.12);border:none;border-radius:12px;color:#fff;
   padding:9px 14px;font-size:13px;font-weight:700;cursor:pointer;
